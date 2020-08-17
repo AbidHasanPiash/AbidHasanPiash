@@ -42,7 +42,7 @@ I am a dedicated person with a family of Five. I enjoy reading, and the knowledg
 </p>
 
 <!-- Dino gif -->
-![image](https://github.com/montasimmamun/montasimmamun/blob/master/dino.gif)
+![image](https://github.com/AbidHasanPiash/AbidHasanPiash/blob/master/dino.gif)
 
 
 [website]: https://meet-abidhasan.000webhostapp.com/
