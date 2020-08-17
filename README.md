@@ -20,7 +20,7 @@ I am a dedicated person with a family of Five. I enjoy reading, and the knowledg
 </p>
 
 
-<img align="right" alt="GIF" src="https://github.com/AbidHasanPiash/AbidHasanPiash/blob/master/programmer.gif" width="400px">
+<img align="right" alt="GIF" src="https://github.com/AbidHasanPiash/AbidHasanPiash/blob/master/programmer.gif" width="300px">
 
 ## :book: Talking About Personal Stuffs :
 
