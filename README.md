@@ -7,12 +7,18 @@ I am a dedicated person with a family of Five. I enjoy reading, and the knowledg
 ## 💻 Programming Languages :
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 	<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src ="https://img.shields.io/badge/sqllite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <br>
-<img align="left" alt="GIF" src="https://github.com/AbidHasanPiash/AbidHasanPiash/blob/master/programmer.gif" width="400px">
+<img align="center" alt="GIF" src="https://github.com/AbidHasanPiash/AbidHasanPiash/blob/master/programmer.gif" width="400px">
+
+
+
+
 <br>
+
+
+
 ## 📧 Contact Me on Social Media
 <p align = "left">
-
-
+  
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/meghpiash2/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abid-hasan-b1633518b/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/meghpiash/)
