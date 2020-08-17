@@ -31,8 +31,6 @@ I am a dedicated person with a family of Five. I enjoy reading, and the knowledg
 
 <br>
 <br>
-
-## 🔔 My Github Stats :
 <br>
 
 
