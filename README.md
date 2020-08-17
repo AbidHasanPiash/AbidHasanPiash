@@ -35,10 +35,7 @@ I am a dedicated person with a family of Five. I enjoy reading, and the knowledg
 ## 🔔 My Github Stats :
 <br>
 
-<p align = "center">
-  <img alt="Montasim's Github Stats" src = "https://github-readme-stats.montasimmamun.vercel.app/api?username=montasimmamun&show_icons=true&theme=radical&line_height=27">
-  <img alt="Montasim's Github Stats" src = "https://github-readme-stats.montasimmamun.vercel.app/api/top-langs/?username=montasimmamun&hide=css,html&theme=tokyonight">
-</p>
+
 
 <!-- Dino gif -->
 ![image](https://github.com/AbidHasanPiash/AbidHasanPiash/blob/master/dino.gif)
