@@ -23,12 +23,12 @@ I am a dedicated person with a family of Five. I enjoy reading, and the knowledg
 
 ## :book: Talking About Personal Stuffs :
 
-- ⌨ I'm a Programmer, Developer, Designer and Learner!;
-- 🌱 I’m currently working on various things!; 
-- 👯 I’m currently learning everything I find interesting.🤝;
-- 💬 Ask me about anything, I am happy to help;
-- 📧 How to reach me: meghpiash@gmail.com;
-- 🧾[Resume](https://drive.google.com/file/d/1H84AuCJcfttNlnfV1VxpBMJkT4i6PpsF/view?usp=sharing)
+-  I'm a Programmer, Developer, Designer and Learner!;
+-  I’m currently working on various things!; 
+-  I’m currently learning everything I find interesting.🤝;
+-  Ask me about anything, I am happy to help;
+-  How to reach me: meghpiash@gmail.com;
+- [View my Resume](https://drive.google.com/file/d/1H84AuCJcfttNlnfV1VxpBMJkT4i6PpsF/view?usp=sharing)
 
 <br>
 <br>
