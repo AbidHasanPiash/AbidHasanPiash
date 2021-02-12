@@ -37,8 +37,7 @@ I am a dedicated person with a family of Five. I enjoy reading, and the knowledg
 
 
 
-<!-- Dino gif -->
-![image](https://github.com/AbidHasanPiash/AbidHasanPiash/blob/master/ppt-graphics.gif)
+
 
 
 [website]: https://abidhasanpiash.github.io/
